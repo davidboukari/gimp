@@ -15,6 +15,5 @@
 * Click SUPP to remove the selection
 * De-select the selection (Selection -> none) or CTRL + a
 * Save the image
-```
+* Export as PNG
 
-```
