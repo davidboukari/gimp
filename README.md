@@ -7,7 +7,9 @@
 ## Detourer
 * https://www.youtube.com/watch?v=4hftFp7mM5M
 
+
 * Calc bar: CTRL + l
+* Click on the calc: Add a alpha canal
 * Tools bar: CTRL + b
 * Select the magical stick (double click if you want to update the shreshold)
 * Click in the image in different positions and play with the shreshold
@@ -17,3 +19,4 @@
 * Save the image
 * Export as PNG
 
+## main levée
