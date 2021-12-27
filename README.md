@@ -21,3 +21,8 @@
 * Export as PNG
 
 ## main levée
+* Select yours points with smart scissors (ciseaux intelingents) or lacots
+* on the calc bottom <img width="210" alt="image" src="https://user-images.githubusercontent.com/32338685/147464645-845b1d03-5c36-4793-b6e9-bb192f3bd386.png">
+* <img width="23" alt="image" src="https://user-images.githubusercontent.com/32338685/147464748-7854c4fa-8c57-45b2-8e9d-d3cbe165cb48.png">
+Selection to path
+
