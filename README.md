@@ -26,3 +26,7 @@
 * <img width="23" alt="image" src="https://user-images.githubusercontent.com/32338685/147464748-7854c4fa-8c57-45b2-8e9d-d3cbe165cb48.png">
 Selection to path
 
+* Deselect the selection CRTL+Alt+a or SHIFT+CMD+a 
+* Click on the path in the eye to display the selection
+* Path tools <img width="52" alt="image" src="https://user-images.githubusercontent.com/32338685/147465536-ab4119dc-3721-4a04-947b-5c8fee79a810.png">
+Update (Modifier)
